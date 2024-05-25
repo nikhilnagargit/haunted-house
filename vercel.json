@@ -1,8 +1,0 @@
-{
-  "rewrites": [
-    {
-      "source": "/haunted-house/index.html",
-      "destination": "/haunted-house/index.html"
-    }
-  ]
-}
